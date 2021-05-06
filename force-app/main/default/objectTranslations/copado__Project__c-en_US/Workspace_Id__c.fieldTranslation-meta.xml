@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- For Rally, the workspace ID is required in addition to the External Project Id. --></help>
+    <label><!-- Workspace Id --></label>
+    <name>Workspace_Id__c</name>
+</CustomFieldTranslation>

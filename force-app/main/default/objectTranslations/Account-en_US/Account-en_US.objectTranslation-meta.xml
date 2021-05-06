@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <recordTypes>
+        <label><!-- Business Account --></label>
+        <name>Business_Account</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- DeleteRTacc --></label>
+        <name>DeleteRTacc</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- RT Nested Test --></label>
+        <name>RT_Nested_Test</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record Type1 --></label>
+        <name>Record_Type1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record Type2 --></label>
+        <name>Record_Type2</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- This error will be never displayed. --></errorMessage>
+        <name>New_Validation_Acc</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This is always false --></errorMessage>
+        <name>Prevent_Edit_to_Relationship_Fields</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You must enter a name for the XXXXXXXXXXX account --></errorMessage>
+        <name>Validation</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Billing --></label>
+        <name>Billing</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- PA Test Field --></label>
+    <name>PA_Test_Field__c</name>
+    <picklistValues>
+        <masterLabel>PA Fix</masterLabel>
+        <translation><!-- PA Fix --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PLUS 1500 (0597)</masterLabel>
+        <translation><!-- PLUS 1500 (0597) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Test PA</masterLabel>
+        <translation><!-- Test PA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Value 1</masterLabel>
+        <translation><!-- Value 1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Value 2</masterLabel>
+        <translation><!-- Value 2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Value 4</masterLabel>
+        <translation><!-- Value 4 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Value3</masterLabel>
+        <translation><!-- Value3 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Value5</masterLabel>
+        <translation><!-- Value5 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>new</masterLabel>
+        <translation><!-- new --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

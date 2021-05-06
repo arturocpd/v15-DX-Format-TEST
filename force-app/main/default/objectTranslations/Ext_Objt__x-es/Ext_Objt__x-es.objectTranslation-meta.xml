@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Ext Objt</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Ext Objts</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- field set --></label>
+        <name>field_set</name>
+    </fieldSets>
+    <gender>Feminine</gender>
+</CustomObjectTranslation>
