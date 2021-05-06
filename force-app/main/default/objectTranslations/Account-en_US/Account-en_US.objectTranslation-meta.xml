@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <recordTypes>
+        <label><!-- Auto Resolve RT --></label>
+        <name>Auto_Resolve_RT</name>
+    </recordTypes>
+    <recordTypes>
         <label><!-- Business Account --></label>
         <name>Business_Account</name>
     </recordTypes>
@@ -13,6 +17,7 @@
         <name>RT_Nested_Test</name>
     </recordTypes>
     <recordTypes>
+        <description><!-- Description MOD --></description>
         <label><!-- Record Type1 --></label>
         <name>Record_Type1</name>
     </recordTypes>
@@ -25,7 +30,7 @@
         <name>New_Validation_Acc</name>
     </validationRules>
     <validationRules>
-        <errorMessage><!-- This is always false --></errorMessage>
+        <errorMessage><!-- Always false no matter what --></errorMessage>
         <name>Prevent_Edit_to_Relationship_Fields</name>
     </validationRules>
     <validationRules>

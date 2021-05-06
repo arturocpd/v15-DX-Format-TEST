@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Useless help text! --></help>
+    <label><!-- Commit test field --></label>
+    <name>Commit_test_field__c</name>
+</CustomFieldTranslation>

@@ -14,15 +14,37 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>3</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>4</fullName>
             <default>false</default>
         </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Activity_Field__c</picklist>
         <values>
-            <fullName>5</fullName>
+            <fullName>Value1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value3</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Field_Name__c</picklist>
+        <values>
+            <fullName>Value1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value3</fullName>
             <default>false</default>
         </values>
     </picklistValues>

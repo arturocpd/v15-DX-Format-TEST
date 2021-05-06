@@ -3,6 +3,10 @@
     <label><!-- Nested Test RT --></label>
     <name>Nested_Test_RT__c</name>
     <picklistValues>
+        <masterLabel>Destructive 3</masterLabel>
+        <translation><!-- Destructive 3 --></translation>
+    </picklistValues>
+    <picklistValues>
         <masterLabel>Destructive1</masterLabel>
         <translation><!-- Destructive1 --></translation>
     </picklistValues>

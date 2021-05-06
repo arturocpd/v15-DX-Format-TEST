@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Picklist Dinner --></label>
+    <name>Picklist_Dinner__c</name>
+    <picklistValues>
+        <masterLabel>Dinner1</masterLabel>
+        <translation><!-- Dinner1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dinner2</masterLabel>
+        <translation><!-- Dinner2 --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

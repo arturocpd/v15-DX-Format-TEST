@@ -4,6 +4,7 @@
     <externalId>false</externalId>
     <label>Picklist Dinner Table</label>
     <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <type>Picklist</type>
     <valueSet>

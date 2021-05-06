@@ -20,6 +20,11 @@
                 <default>false</default>
                 <label>Destructive2</label>
             </value>
+            <value>
+                <fullName>Destructive 3</fullName>
+                <default>false</default>
+                <label>Destructive 3</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Picklist bug test --></label>
+    <name>Picklist_bug_test__c</name>
+    <picklistValues>
+        <masterLabel>Test 1</masterLabel>
+        <translation><!-- Test 1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Test 2</masterLabel>
+        <translation><!-- Test 2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Test 3</masterLabel>
+        <translation><!-- Test 3 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Test2</masterLabel>
+        <translation><!-- Test2 --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

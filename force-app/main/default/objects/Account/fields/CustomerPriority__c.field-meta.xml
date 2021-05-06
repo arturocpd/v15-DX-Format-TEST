@@ -24,6 +24,16 @@
                 <default>false</default>
                 <label>Medium</label>
             </value>
+            <value>
+                <fullName>None</fullName>
+                <default>false</default>
+                <label>None</label>
+            </value>
+            <value>
+                <fullName>Plus</fullName>
+                <default>false</default>
+                <label>Plus</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

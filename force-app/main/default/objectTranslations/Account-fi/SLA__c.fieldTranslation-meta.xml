@@ -22,4 +22,8 @@
         <masterLabel>Silver</masterLabel>
         <translation><!-- Silver --></translation>
     </picklistValues>
+    <picklistValues>
+        <masterLabel>Wood</masterLabel>
+        <translation><!-- Wood --></translation>
+    </picklistValues>
 </CustomFieldTranslation>

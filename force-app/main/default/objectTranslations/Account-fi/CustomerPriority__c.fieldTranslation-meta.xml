@@ -14,4 +14,12 @@
         <masterLabel>Medium</masterLabel>
         <translation><!-- Medium --></translation>
     </picklistValues>
+    <picklistValues>
+        <masterLabel>None</masterLabel>
+        <translation><!-- None --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Plus</masterLabel>
+        <translation><!-- Plus --></translation>
+    </picklistValues>
 </CustomFieldTranslation>

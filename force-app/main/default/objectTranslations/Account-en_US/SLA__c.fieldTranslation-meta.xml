@@ -4,15 +4,15 @@
     <name>SLA__c</name>
     <picklistValues>
         <masterLabel>Bronze</masterLabel>
-        <translation><!-- Bronze --></translation>
+        <translation>EBronce</translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Gold</masterLabel>
-        <translation><!-- Gold --></translation>
+        <translation>EGold</translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Iron</masterLabel>
-        <translation><!-- Iron --></translation>
+        <translation>EIron</translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Platinum</masterLabel>
@@ -21,5 +21,9 @@
     <picklistValues>
         <masterLabel>Silver</masterLabel>
         <translation><!-- Silver --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wood</masterLabel>
+        <translation><!-- Wood --></translation>
     </picklistValues>
 </CustomFieldTranslation>

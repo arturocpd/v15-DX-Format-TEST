@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Support Analysis --></label>
+    <name>Support_Analysis__c</name>
+    <picklistValues>
+        <masterLabel>Copado Knowledge</masterLabel>
+        <translation><!-- Copado Knowledge --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Git Knowledge</masterLabel>
+        <translation><!-- Git Knowledge --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Metadata API Knowledge</masterLabel>
+        <translation><!-- Metadata API Knowledge --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>N/A</masterLabel>
+        <translation><!-- N/A --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Salesforce Knowledge</masterLabel>
+        <translation><!-- Salesforce Knowledge --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

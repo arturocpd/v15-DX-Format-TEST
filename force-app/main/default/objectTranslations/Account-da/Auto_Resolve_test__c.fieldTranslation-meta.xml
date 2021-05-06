@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Auto Resolve Field --></label>
+    <name>Auto_Resolve_test__c</name>
+    <picklistValues>
+        <masterLabel>Auto1</masterLabel>
+        <translation><!-- Auto1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Auto2</masterLabel>
+        <translation><!-- Auto2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Auto3</masterLabel>
+        <translation><!-- Auto3 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Auto4</masterLabel>
+        <translation><!-- Auto4 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Auto5</masterLabel>
+        <translation><!-- Auto5 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Auto6</masterLabel>
+        <translation><!-- Auto6 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Auto7</masterLabel>
+        <translation><!-- Auto7 --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

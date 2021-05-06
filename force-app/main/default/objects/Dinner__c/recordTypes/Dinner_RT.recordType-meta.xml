@@ -4,20 +4,13 @@
     <active>true</active>
     <label>Dinner RT</label>
     <picklistValues>
-        <picklist>Automatic_Renewal_Clause__c</picklist>
-        <values>
-            <fullName>No</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Yes</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>Dinner_Type__c</picklist>
         <values>
             <fullName>Full</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>High Touch%2FHigh Urgency</fullName>
             <default>false</default>
         </values>
         <values>
@@ -44,6 +37,21 @@
         </values>
         <values>
             <fullName>Dinner2</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Type__c</picklist>
+        <values>
+            <fullName>Brunch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dinner</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lunch</fullName>
             <default>false</default>
         </values>
     </picklistValues>

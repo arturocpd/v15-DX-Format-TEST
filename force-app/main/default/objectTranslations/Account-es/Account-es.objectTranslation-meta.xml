@@ -10,6 +10,10 @@
     </caseValues>
     <gender>Feminine</gender>
     <recordTypes>
+        <label><!-- Auto Resolve RT --></label>
+        <name>Auto_Resolve_RT</name>
+    </recordTypes>
+    <recordTypes>
         <label><!-- Business Account --></label>
         <name>Business_Account</name>
     </recordTypes>
@@ -22,6 +26,7 @@
         <name>RT_Nested_Test</name>
     </recordTypes>
     <recordTypes>
+        <description><!-- Description MOD --></description>
         <label><!-- Record Type1 --></label>
         <name>Record_Type1</name>
     </recordTypes>
@@ -34,7 +39,7 @@
         <name>New_Validation_Acc</name>
     </validationRules>
     <validationRules>
-        <errorMessage>Esto es siempre falso.</errorMessage>
+        <errorMessage>Otra modificacion mas.</errorMessage>
         <name>Prevent_Edit_to_Relationship_Fields</name>
     </validationRules>
     <validationRules>

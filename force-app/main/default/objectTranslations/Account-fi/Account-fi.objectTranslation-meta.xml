@@ -4,19 +4,19 @@
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>None</possessive>
-        <value>TiliAAA</value>
+        <value>TiliZZZ</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
         <possessive>None</possessive>
-        <value>TilitAAA</value>
+        <value>TilitZZZ</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>First</possessive>
-        <value>TiliniAAA</value>
+        <value>TiliniZZZ</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
@@ -28,7 +28,7 @@
         <caseType>Nominative</caseType>
         <plural>false</plural>
         <possessive>Second</possessive>
-        <value>TilisiAAA</value>
+        <value>TilisiZZZ</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
@@ -397,6 +397,10 @@
         <value>Tilejäsi</value>
     </caseValues>
     <recordTypes>
+        <label><!-- Auto Resolve RT --></label>
+        <name>Auto_Resolve_RT</name>
+    </recordTypes>
+    <recordTypes>
         <label><!-- Business Account --></label>
         <name>Business_Account</name>
     </recordTypes>
@@ -409,6 +413,7 @@
         <name>RT_Nested_Test</name>
     </recordTypes>
     <recordTypes>
+        <description><!-- Description MOD --></description>
         <label><!-- Record Type1 --></label>
         <name>Record_Type1</name>
     </recordTypes>
@@ -421,7 +426,7 @@
         <name>New_Validation_Acc</name>
     </validationRules>
     <validationRules>
-        <errorMessage><!-- This is always false --></errorMessage>
+        <errorMessage><!-- Always false no matter what --></errorMessage>
         <name>Prevent_Edit_to_Relationship_Fields</name>
     </validationRules>
     <validationRules>

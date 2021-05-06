@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- ASCII Test --></label>
+    <name>ASCII_Test__c</name>
+    <picklistValues>
+        <masterLabel>Afghanistan 93</masterLabel>
+        <translation><!-- Afghanistan 93 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Café</masterLabel>
+        <translation><!-- Café --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Décor</masterLabel>
+        <translation><!-- Décor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New</masterLabel>
+        <translation><!-- New --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

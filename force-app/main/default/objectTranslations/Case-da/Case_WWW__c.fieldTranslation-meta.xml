@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Case WWW --></label>
+    <name>Case_WWW__c</name>
+    <picklistValues>
+        <masterLabel>April</masterLabel>
+        <translation><!-- April --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>February</masterLabel>
+        <translation><!-- February --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>January</masterLabel>
+        <translation><!-- January --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>March</masterLabel>
+        <translation><!-- March --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>October</masterLabel>
+        <translation><!-- October --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Dinner --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- Dinner --></value>
+    </caseValues>
+    <nameFieldLabel><!-- Dinner Name --></nameFieldLabel>
+    <recordTypes>
+        <label><!-- Dinner RT --></label>
+        <name>Dinner_RT</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT10 --></label>
+        <name>Dinner_RT10</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT2 --></label>
+        <name>Dinner_RT2</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT3 --></label>
+        <name>Dinner_RT3</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT4 --></label>
+        <name>Dinner_RT4</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT5 --></label>
+        <name>Dinner_RT5</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT6 --></label>
+        <name>Dinner_RT6</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT7 --></label>
+        <name>Dinner_RT7</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT8 --></label>
+        <name>Dinner_RT8</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT9 --></label>
+        <name>Dinner_RT9</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Dinner RT 2 --></label>
+        <name>Dinner_RT_2</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Nested Dinner RT --></label>
+        <name>Nested_Dinner_RT</name>
+    </recordTypes>
+</CustomObjectTranslation>

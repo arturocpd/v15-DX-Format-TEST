@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Case QQQ --></label>
+    <name>Case_QQQ__c</name>
+</CustomFieldTranslation>

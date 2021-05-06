@@ -18,10 +18,6 @@
             <default>true</default>
         </values>
         <values>
-            <fullName>WOLI</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>WOLI2</fullName>
             <default>false</default>
         </values>

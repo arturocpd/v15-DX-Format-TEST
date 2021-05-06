@@ -6,6 +6,10 @@
     <picklistValues>
         <picklist>AAATask__c</picklist>
         <values>
+            <fullName>1</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>2</fullName>
             <default>false</default>
         </values>
@@ -15,6 +19,36 @@
         </values>
         <values>
             <fullName>5</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Activity_Field__c</picklist>
+        <values>
+            <fullName>Value1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value3</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Field_Name__c</picklist>
+        <values>
+            <fullName>Value1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value3</fullName>
             <default>false</default>
         </values>
     </picklistValues>
@@ -85,6 +119,10 @@
         <values>
             <fullName>Not Started</fullName>
             <default>true</default>
+        </values>
+        <values>
+            <fullName>Waiting</fullName>
+            <default>false</default>
         </values>
         <values>
             <fullName>Waiting on someone else</fullName>

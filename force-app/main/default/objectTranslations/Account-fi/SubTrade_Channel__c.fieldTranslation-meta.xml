@@ -3,8 +3,8 @@
     <label><!-- SubTrade Channel --></label>
     <name>SubTrade_Channel__c</name>
     <picklistValues>
-        <masterLabel>001 - Bakery</masterLabel>
-        <translation><!-- 001 - Bakery --></translation>
+        <masterLabel>001</masterLabel>
+        <translation><!-- 001 --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>020</masterLabel>

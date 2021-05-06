@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Category --></label>
+    <name>Category__c</name>
+    <picklistValues>
+        <masterLabel>Account</masterLabel>
+        <translation><!-- Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Bevtrack</masterLabel>
+        <translation><!-- Bevtrack --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Billing</masterLabel>
+        <translation><!-- Billing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>CCE document</masterLabel>
+        <translation><!-- CCE document --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>CMA</masterLabel>
+        <translation><!-- CMA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>CMD not account specific</masterLabel>
+        <translation><!-- CMD not account specific --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Campaign</masterLabel>
+        <translation><!-- Campaign --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cash application</masterLabel>
+        <translation><!-- Cash application --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Change Territory</masterLabel>
+        <translation><!-- Change Territory --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Change not account specific</masterLabel>
+        <translation><!-- Change not account specific --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Collection</masterLabel>
+        <translation><!-- Collection --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Complains</masterLabel>
+        <translation><!-- Complains --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consumer Response</masterLabel>
+        <translation><!-- Consumer Response --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Contact</masterLabel>
+        <translation><!-- Contact --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Contract Changes</masterLabel>
+        <translation><!-- Contract Changes --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit</masterLabel>
+        <translation><!-- Credit --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Customer Portal</masterLabel>
+        <translation><!-- Customer Portal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DSR</masterLabel>
+        <translation><!-- DSR --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Delivery</masterLabel>
+        <translation><!-- Delivery --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Delivery Recovery Requests</masterLabel>
+        <translation><!-- Delivery Recovery Requests --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dispute</masterLabel>
+        <translation><!-- Dispute --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dispute RS</masterLabel>
+        <translation><!-- Dispute RS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Documents</masterLabel>
+        <translation><!-- Documents --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>EDI Customer</masterLabel>
+        <translation><!-- EDI Customer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Employee Relations</masterLabel>
+        <translation><!-- Employee Relations --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Environment</masterLabel>
+        <translation><!-- Environment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Equipment</masterLabel>
+        <translation><!-- Equipment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Escalation</masterLabel>
+        <translation><!-- Escalation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>External (NSC)</masterLabel>
+        <translation><!-- External (NSC) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>External (SC)</masterLabel>
+        <translation><!-- External (SC) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>External Customer</masterLabel>
+        <translation><!-- External Customer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>FR - Consumer/Others</masterLabel>
+        <translation><!-- FR - Consumer/Others --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>FR - Customer PAV</masterLabel>
+        <translation><!-- FR - Customer PAV --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>FR - Customer Powerade Service</masterLabel>
+        <translation><!-- FR - Customer Powerade Service --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>FR - Wholesaler - Customer Portal</masterLabel>
+        <translation><!-- FR - Wholesaler - Customer Portal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Files Management</masterLabel>
+        <translation><!-- Files Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Finance info/document sent</masterLabel>
+        <translation><!-- Finance info/document sent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Financial</masterLabel>
+        <translation><!-- Financial --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Flexible Working Application</masterLabel>
+        <translation><!-- Flexible Working Application --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Free Products</masterLabel>
+        <translation><!-- Free Products --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Full Service Vending</masterLabel>
+        <translation><!-- Full Service Vending --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>HOME</masterLabel>
+        <translation><!-- HOME --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>HORECA</masterLabel>
+        <translation><!-- HORECA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>HR Information Systems</masterLabel>
+        <translation><!-- HR Information Systems --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Inbound</masterLabel>
+        <translation><!-- Inbound --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Internal (NSC)</masterLabel>
+        <translation><!-- Internal (NSC) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Internal (SC)</masterLabel>
+        <translation><!-- Internal (SC) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Invoice</masterLabel>
+        <translation><!-- Invoice --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>KBS</masterLabel>
+        <translation><!-- KBS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Learning and Development</masterLabel>
+        <translation><!-- Learning and Development --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Logistics</masterLabel>
+        <translation><!-- Logistics --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Master Data</masterLabel>
+        <translation><!-- Master Data --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Merchandiser</masterLabel>
+        <translation><!-- Merchandiser --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Misdirects</masterLabel>
+        <translation><!-- Misdirects --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New Hire (External Recruitment)</masterLabel>
+        <translation><!-- New Hire (External Recruitment) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Occupational Health and Absence</masterLabel>
+        <translation><!-- Occupational Health and Absence --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Office Support</masterLabel>
+        <translation><!-- Office Support --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Order</masterLabel>
+        <translation><!-- Order --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Organisational Management</masterLabel>
+        <translation><!-- Organisational Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Outlet Master Data</masterLabel>
+        <translation><!-- Outlet Master Data --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PO</masterLabel>
+        <translation><!-- PO --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>POS</masterLabel>
+        <translation><!-- POS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PTP</masterLabel>
+        <translation><!-- PTP --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Payroll</masterLabel>
+        <translation><!-- Payroll --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Personnel Administration</masterLabel>
+        <translation><!-- Personnel Administration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Portal</masterLabel>
+        <translation><!-- Portal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pricing</masterLabel>
+        <translation><!-- Pricing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product Quality</masterLabel>
+        <translation><!-- Product Quality --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Products</masterLabel>
+        <translation><!-- Products --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prospect</masterLabel>
+        <translation><!-- Prospect --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Recruitment Support</masterLabel>
+        <translation><!-- Recruitment Support --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Remove from Coverage - Equipment Present</masterLabel>
+        <translation><!-- Remove from Coverage - Equipment Present --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Remove from Coverage - No Equipment Present</masterLabel>
+        <translation><!-- Remove from Coverage - No Equipment Present --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rewards - Benefits</masterLabel>
+        <translation><!-- Rewards - Benefits --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rewards - Compensation</masterLabel>
+        <translation><!-- Rewards - Compensation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rushorder</masterLabel>
+        <translation><!-- Rushorder --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SOC</masterLabel>
+        <translation><!-- SOC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sales Rep</masterLabel>
+        <translation><!-- Sales Rep --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sample Orders</masterLabel>
+        <translation><!-- Sample Orders --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Security</masterLabel>
+        <translation><!-- Security --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Separation</masterLabel>
+        <translation><!-- Separation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Shipments</masterLabel>
+        <translation><!-- Shipments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sponsoring</masterLabel>
+        <translation><!-- Sponsoring --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Talent/Performance Management</masterLabel>
+        <translation><!-- Talent/Performance Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Technical</masterLabel>
+        <translation><!-- Technical --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Technical (Tech Call Centre Only)</masterLabel>
+        <translation><!-- Technical (Tech Call Centre Only) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Time clocking</masterLabel>
+        <translation><!-- Time clocking --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Time non clocking</masterLabel>
+        <translation><!-- Time non clocking --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Voicemail</masterLabel>
+        <translation><!-- Voicemail --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wholesaler</masterLabel>
+        <translation><!-- Wholesaler --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

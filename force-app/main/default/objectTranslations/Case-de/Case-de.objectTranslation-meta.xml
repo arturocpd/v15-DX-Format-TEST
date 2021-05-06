@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Kundenvorgang</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>Kundenvorgängeef</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value>Kundenvorgang</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value>Kundenvorgänge</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value>Kundenvorgangs</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value>Kundenvorgänge</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value>Kundenvorgang</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value>Kundenvorgängen</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Support Field Set --></label>
+        <name>Support_Field_Set</name>
+    </fieldSets>
+    <gender>Masculine</gender>
+    <recordTypes>
+        <label><!-- Record Type --></label>
+        <name>Record_Type</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record Type 2 --></label>
+        <name>Record_Type_2</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Never triggered --></errorMessage>
+        <name>VR_test_commit</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- case validation rule delete me --></errorMessage>
+        <name>delete_me</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- UpsellCrosssellOpportunity --></label>
+        <name>UpsellCrosssellOpportunity</name>
+    </webLinks>
+</CustomObjectTranslation>
